@@ -1,9 +1,9 @@
 # github-portfolio
 
 ## Projects
-### Project 1
-- Description
-- Links
+### Atomic Chess
+- An Atomic Chess implementation in Python.
+- [Github Repository](https://github.com/maherje/atomicChess)
 
 ### Project 2
 - Description

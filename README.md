@@ -1,5 +1,9 @@
 # github-portfolio
 
+## Contact Information
+[email](mailto:{{ site.email }})
+[LinkedIn]({{ site.linkedin_url }})
+
 ## Projects
 ### Atomic Chess
 - An Atomic Chess implementation in Python.

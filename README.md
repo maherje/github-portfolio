@@ -1,8 +1,8 @@
 # github-portfolio
 
 ## Contact Information
-[email](mailto:{{ site.email }})
-[LinkedIn]({{ site.linkedin_url }})
+- [email](mailto:{{ site.email }})
+- [LinkedIn]({{ site.linkedin_url }})
 
 ## Projects
 ### Atomic Chess

@@ -19,7 +19,7 @@
 - A React web application with MongoDB backend for an exercise tracker.
 - [Github Repository](https://github.com/maherje/fullStackMERNApp)
 
-# Education
+## Education
 **Oregon State University (2023 - Present)**
 - Bachelor of  Science in Computer Science (in-process)
 
@@ -30,7 +30,7 @@ Flow and Thermal Engineering Study
 **University of Minnesota (1993 - 1998)**
 - Bachelor of Science in Mechanical Engineering
 
-# Work History
+## Work History
 **Polaris Industries**
 - Mechanical Design Engineer (2005 - 2012)
 - CAE Analyst (2013 - Present)

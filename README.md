@@ -9,7 +9,7 @@
 - An implementation of a Hash Map done in two ways.
   - Separate Chaining.
   - Open Addressing with Quadratic Probing.
-- [Github Repository](https://github.com/maherje/hashMap)
+  - [Github Repository](https://github.com/maherje/hashMap)
 
 ### Full Stack MERN App
 - A React web application with MongoDB backend for an exercise tracker.

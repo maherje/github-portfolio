@@ -17,14 +17,14 @@
 
 # Education
 **Oregon State University (2023 - Present)**
-Bachelor of  Science in Computer Science (in-process)
+- Bachelor of  Science in Computer Science (in-process)
 
 **University of Idaho (2000 - 2008)**
 Flow and Thermal Engineering Study
-Conduction, Convection, Radiation Heat Transfer, Statistical Thermodynamics, Fluid and Gas Dynamics
+- Conduction, Convection, Radiation Heat Transfer, Statistical Thermodynamics, Fluid and Gas Dynamics
 
 **University of Minnesota (1993 - 1998)**
-Bachelor of Science in Mechanical Engineering
+- Bachelor of Science in Mechanical Engineering
 
 # Work History
 **Polaris Industries**
